@@ -1,19 +1,7 @@
-# Device Rack Builder
+# Bed Leveling Objects
 
-These are some parts which can be connected together to create a small rack to put in routers, switches or other devices. There also should be enougth air ventilation for the devices.
-<br>
-My motivation was to design this rack to be printable on smaller printers like Monoprice Select Mini or Prusa Mini.
+These are some bed leveling objects for 3d printing. Size should be changed in slicer!
 
-
-**WORK IN PROGRESS!**
-This Model for OpenSCAD is not finished and has not been printed by me.
-
-
-![Device Rack Builder Ex](device-rack-builder-example.png)
-<br>
-![Device Rack Builder](device-rack-builder-printable.png)
-<br>
-![Device Rack Builder](device-rack-builder.png)
 <br>
 <br>
 <br>
